@@ -15,7 +15,7 @@ public class RandomPick {
             String result = getRandomResult(random);
             if (result.equals("a")) {
                 countA++;
-                if (countA >= 35) {
+                if (countA >= 38) {
 
                     return true; // 'a'를 30번 이상 획득하여 종료
                 }
