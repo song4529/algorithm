@@ -1,7 +1,5 @@
 package com.study.algorithm.lv2;
 
-import java.util.*;
-
 class TriangleSnail {
     public int[] solution(int n) {
         int[] answer = new int[(n*(n+1))/2];
