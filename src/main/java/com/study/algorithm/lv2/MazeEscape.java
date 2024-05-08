@@ -72,4 +72,3 @@ class MazeEscape {
         return -1;
     }
 }
-출처: https://chamggae.tistory.com/199 [suhaha 개발 일지:티스토리]
