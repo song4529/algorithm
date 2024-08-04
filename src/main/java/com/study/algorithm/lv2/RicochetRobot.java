@@ -6,6 +6,7 @@ class RicochetRobot {
     int[] dx = {-1, 1, 0, 0};
     int[] dy = {0, 0, -1, 1};
 
+
     public int solution(String[] board) {
         N = board.length;
         M = board[0].length();
